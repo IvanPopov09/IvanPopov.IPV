@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Мой блог</title>
+    </head>
+    <body>
+        <center>
+            <img src="IvanPopov.png"
+	border = "10px"
+	hight = "50%"
+	width = "50%"/>
+            <font face = "Impact"><h2>Обо мне</h2></font>
+        </center>
+            <p><font face = "Comic Sans MS">Хей, всем привет! Меня зовут IvanPopov.<br> Я интересуюсь науками: IT, биологией, химией, астрономией.<br> И на этом сайте я буду публиковать как-раз всё, что касается моих интересов</font></p>
+            <hr
+	color = "black">
+	<center>
+	<font face = "Impact"><h2>Я в социальных сетях</h2></font>
+	</center>
+    </body>
+</html>
